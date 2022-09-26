@@ -1,12 +1,10 @@
-## Hi there 👋
+## DanBot Hosting Minecraft Github
 
-<!--
+> Here is where we store all of the code for the bots (and maybe server) we have in our server!
+> All code is private so nobody can use the private code.
 
-**Here are some ideas to get you started:**
+# All code is from the [DanBot Hosting Bots](https://danbot.host)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To do List:
+[] Post all bot code to here (From Jon's Private Repo)
+[] 
