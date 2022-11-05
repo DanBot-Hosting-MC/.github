@@ -6,5 +6,5 @@
 # All code is from the [DanBot Hosting Bots](https://danbot.host)
 
 To do List:
-[] Post all bot code to here (From Jon's Private Repo)
-[] 
+[ ] Post all bot code to here (From Jon's Private Repo)
+[ ] 
